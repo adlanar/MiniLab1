@@ -17,7 +17,6 @@ public class GUITest {
      */
     public static void main(String[] args) {
         MainFrame mFrame = new MainFrame();
-        // TODO code application logic here
     }
     
 }
